@@ -24,12 +24,3 @@ Check out the live version of the Weather App https://weatherdisplayer.netlify.a
 
 - **OpenWeatherMap API**: Provides accurate weather data.
 
-## How to Use:
-
-1. Clone the repository.
-
-2. Install the necessary dependencies.
-
-3. Get an API key from OpenWeatherMap and add it to the app.
-
-4. Run the app in your local environment and start searching for weather updates!
